@@ -10,13 +10,13 @@ Before running the bot, make sure you have:
 
 - Node.js (v16 or higher)
 - npm (Node Package Manager)
-- A LayerEdge account (register with referral code: `u9NH68wt`)
+- A LayerEdge account (register with referral code: `VwNv7art`)
 - Wallet private keys for activation
 
 ## Registration
 
 1. Visit [LayerEdge Dashboard](https://dashboard.layeredge.io)
-2. Enter the referral code: `u9NH68wt`
+2. Enter the referral code: `VwNv7art`
 3. Connect your wallet and complete the registration
 4. Start earning points by running a light node!
 
@@ -25,13 +25,13 @@ Before running the bot, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Not-D4rkCipherX/Layer-Edge.git
+git clone https://github.com/mosibur1/layeredge.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Layer-Edge
+cd layeredge
 ```
 
 3. Install dependencies:

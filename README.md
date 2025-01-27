@@ -10,13 +10,13 @@ Before running the bot, make sure you have:
 
 - Node.js (v16 or higher)
 - npm (Node Package Manager)
-- A LayerEdge account (register with referral code: `VwNv7art`)
+- A LayerEdge account (register with referral code: `undefined`)
 - Wallet private keys for activation
 
 ## Registration
 
 1. Visit [LayerEdge Dashboard](https://dashboard.layeredge.io)
-2. Enter the referral code: `VwNv7art`
+2. Enter the referral code: `undefined`
 3. Connect your wallet and complete the registration
 4. Start earning points by running a light node!
 
@@ -25,7 +25,7 @@ Before running the bot, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mosibur1/layeredge.git
+git clone https://github.com/telegrambots00/layeredge.git
 ```
 
 2. Navigate to the project directory:
